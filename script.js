@@ -10,3 +10,6 @@ chocolateButton.onclick = () => {
 flavorButton.onclick = () => {
   window.location.href='Flavor/index.html'
 }
+barButton.onclick = () => {
+  window.location.href='Bar Design/index.html'
+}

@@ -3,7 +3,7 @@ body {
   margin: 0px;
 }
 
-/* Style the links inside the navigation bar */
+/* Style the X for back button */
 .active{
   float: right;
   color: #ffffff;
@@ -13,7 +13,7 @@ body {
   font-family: 'Tangerine', sans-serif;
 }
 
-/* Change the color of links on hover */
+/* Change the color of the x on hover*/
 .topnav a:hover {
   background-color: #000000;
   color: #ffffff;
@@ -23,3 +23,47 @@ body {
   cursor: pointer;
   padding: 10px;
 }
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #c8c8c8;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 32px;
+  margin-left: 50px;
+  text-decoration: none;
+}
+
+
+.rowOne{
+  position: relative;
+  top: 100px;
+  left: 175px;
+
+}
+
+.rowTwo{
+  position: relative;
+  top: 150px;
+  left: 450px;
+
+}
+
+.rowThree{
+  position: relative;
+  top: 200px;
+  left: 700px;
+
+}
+

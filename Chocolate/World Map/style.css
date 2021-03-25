@@ -27,6 +27,26 @@ body {
   padding: 10px;
 }
 
+h2{
+  margin-left: 16px;
+}
+
+p{
+  padding: 20px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+
+}
+
+.worldMap{
+  padding: 16px;
+}
+
+.country{
+  text-decoration: underline;
+  padding-top: 20px;
+}
+
 
 
 
